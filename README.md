@@ -1,6 +1,7 @@
 # openwhyd_app
 
-A new Flutter project.
+This project is aiming to be a Mobile client for [Openwhyd](https://openwhyd.org/).
+It should at it's first version implement all the features that the web version has
 
 ## Getting Started
 
